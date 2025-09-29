@@ -103,5 +103,8 @@ class serial_ConcurrentQueue: UIViewController {
     func parallel(){
         print("serial")
     }
+    func abcd(){
+        print("abcd")
+    }
     }
 

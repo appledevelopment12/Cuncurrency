@@ -96,6 +96,10 @@ class serial_ConcurrentQueue: UIViewController {
            // task 2 finished
            // task 1 print
            // task 1 finsihed
+    
+    func serial(){
+        print("serial")
+    }
         
     }
 

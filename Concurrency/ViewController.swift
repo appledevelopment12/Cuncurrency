@@ -104,5 +104,8 @@ class ViewController: UIViewController {
         print("My name is rohit kumar")
     }
     
+    func acd(){
+        print("My name is rohit kumar")
+    }
 }
 
